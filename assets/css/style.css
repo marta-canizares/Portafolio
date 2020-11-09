@@ -642,6 +642,9 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.08);
 }
 
+.proyectos{
+  font-size: 13px;
+}
 .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
